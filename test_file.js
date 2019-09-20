@@ -1,0 +1,4 @@
+{
+    mytestProp: "testProp"
+
+}
